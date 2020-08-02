@@ -2,7 +2,7 @@ import styled from 'styled-components/native';
 import FeatherIcon from 'react-native-vector-icons/Feather';
 
 export const Container = styled.View`
-    width: 90%;
+    width: 100%;
     height: 60px;
     padding: 0 16px;
     background: #232129;
