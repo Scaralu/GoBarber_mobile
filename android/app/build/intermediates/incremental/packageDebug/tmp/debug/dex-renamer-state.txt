@@ -1,4 +1,4 @@
-#Thu Jul 30 20:53:34 BRT 2020
+#Mon Aug 03 20:57:50 BRT 2020
 base.0=/Users/administrador/github_projects/personal/GoBarber_mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
